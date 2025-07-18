@@ -75,7 +75,7 @@
     "@material-ui/lab": "3.0.0-alpha.30",
     "array-move": "^2.2.1",
     "chalk": "^2.4.2",
-    "compression": "1.7.4",
+    "compression": "1.8.1",
     "connected-react-router": "6.4.0",
     "cross-env": "5.2.0",
     "disqus-react": "^1.0.6",
